@@ -27,7 +27,7 @@ Built as part of the **CodeAlpha Cybersecurity Internship — Task 1**
 ## ⚙️ Installation & Setup
 
 ### 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/CodeAlpha_NetworkSniffer.git
+git clone https://github.com/barath-css/CodeAlpha_NetworkSniffer.git
 cd CodeAlpha_NetworkSniffer
 
 ### 2. Create virtual environment
